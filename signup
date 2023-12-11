@@ -1,0 +1,22 @@
+Signup test cases:
+
+
+1. Sign up using a valid email
+
+2. Sign up while leaving email field empty
+
+3. Sign up while leaving password field empty
+
+4. Sign up while having password different from confirm password
+
+5. Sign up while leaving repassword field empty
+
+6. Verify shown password and confirmed password
+
+7. Verify navigating to login page from sign up page
+
+8. Verify using a invalid format of email
+
+9. Verify signing up with easy to guess password
+
+10. Verify signing up with short password
