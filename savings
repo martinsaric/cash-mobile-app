@@ -1,0 +1,19 @@
+Savings - test cases:
+
+
+1. Verify creating a savings
+
+2. Verify creating savings with empty fields
+
+3. Verify that current amount and total amount only accepts numbers
+
+4. Verify adding multiple savings
+
+5. Verify editing the savings
+
+6. Verify deleting a saving
+
+7. Verify navigation between savings sections and other sections
+
+8. Verify savings section in landscape mode
+
