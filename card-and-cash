@@ -1,0 +1,35 @@
+Card and cash - test cases:
+
+
+1. Verify depositing money in cash
+
+2. Verify depositing money on card
+
+3. Verify withdrawal from card
+
+4. Verify withdrawal in cash
+
+5. Verify transfering money from card to cash
+
+6. Verify transfering money from cash to card
+
+7. Verify transaction history from cash section
+
+8. Verify transaction history from card section
+
+9. Verify cash and card sections in landscape mode
+
+10. Verify navigation from cash and card sections to other sections
+
+11. Verify statistics in card section from last 7 days
+
+12. Verify statistics in card section from last 31 days
+
+13. Verify statistics in card section from last 12 months
+
+14. Verify statistics in cash section from last 7 days
+
+15. Verify statistics in cash section from last 31 days
+
+16. Verify statistics in cash section from last 12 months
+
